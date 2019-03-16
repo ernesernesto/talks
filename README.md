@@ -138,6 +138,10 @@ SIEGE 2013: You're Responsible
 
 https://www.youtube.com/watch?v=xNjfruknpaQ
 
+Why Dark Souls Is The 'Ikea' Of Games
+
+https://www.youtube.com/watch?v=vid5yZRKzs0
+
 ## UX
 Game UX Summit ’17 _ Alex Neonakis Naughty Dog _ How UX Can Spearhead your Accessibility Push
 
