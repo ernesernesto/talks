@@ -1,6 +1,6 @@
-# Game Talks
+# Talks
 
-Curation of game talks that I found useful and worth to watch
+Curation of talks that I found useful and worth to watch
 
 ## Art
 A Live Art Demonstration of Creating Worlds through Design Thinking
@@ -141,6 +141,10 @@ https://www.youtube.com/watch?v=xNjfruknpaQ
 Why Dark Souls Is The 'Ikea' Of Games
 
 https://www.youtube.com/watch?v=vid5yZRKzs0
+
+Being glue - Tanya Reilly
+
+https://www.youtube.com/watch?v=KClAPipnKqw
 
 ## UX
 Game UX Summit ’17 _ Alex Neonakis Naughty Dog _ How UX Can Spearhead your Accessibility Push
