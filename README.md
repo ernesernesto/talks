@@ -92,6 +92,10 @@ Returners and Retention - How to Win Back Lapsed Players
 
 https://www.youtube.com/watch?v=3LnrzbqX_Xc
 
+Magic: the Gathering: Twenty Years, Twenty Lessons Learned
+
+https://www.youtube.com/watch?v=QHHg99hwQGY
+
 ## Narrative
 Creating Strong Video Game Characters
 
