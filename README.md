@@ -96,6 +96,10 @@ Magic: the Gathering: Twenty Years, Twenty Lessons Learned
 
 https://www.youtube.com/watch?v=QHHg99hwQGY
 
+Cultist Simulator: Designing an Experimental Game for Commercial Success
+
+https://www.youtube.com/watch?v=0pBvMIUk1nQ
+
 ## Narrative
 Creating Strong Video Game Characters
 
