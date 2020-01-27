@@ -100,6 +100,10 @@ Cultist Simulator: Designing an Experimental Game for Commercial Success
 
 https://www.youtube.com/watch?v=0pBvMIUk1nQ
 
+Designing Games for Game Designers
+
+https://www.gdcvault.com/play/1015305/Designing-Games-for-Game
+
 ## Narrative
 Creating Strong Video Game Characters
 
