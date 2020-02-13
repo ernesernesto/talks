@@ -104,6 +104,14 @@ Designing Games for Game Designers
 
 https://www.gdcvault.com/play/1015305/Designing-Games-for-Game
 
+One Page Designs
+
+https://www.gdcvault.com/play/1012356/One-Page
+
+Of Choice and Breaking New Ground - Designing Mark of The Ninja
+
+https://www.gdcvault.com/play/1017791/Of-Choice-and-Breaking-New
+
 ## Narrative
 Creating Strong Video Game Characters
 
