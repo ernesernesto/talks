@@ -112,6 +112,10 @@ Of Choice and Breaking New Ground - Designing Mark of The Ninja
 
 https://www.gdcvault.com/play/1017791/Of-Choice-and-Breaking-New
 
+Prototyping Your Monetization: Evaluating Monetization Potential Early
+
+https://www.gdcvault.com/play/1023951/Prototyping-Your-Monetization-Evaluating-Monetization
+
 ## Narrative
 Creating Strong Video Game Characters
 
