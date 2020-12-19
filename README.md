@@ -116,6 +116,10 @@ Prototyping Your Monetization: Evaluating Monetization Potential Early
 
 https://www.gdcvault.com/play/1023951/Prototyping-Your-Monetization-Evaluating-Monetization
 
+Jamie Gilbertson & David Petry - Designing and Implementing an Engaging PvP Multiplayer Experience
+
+https://www.youtube.com/watch?v=P_T_Hl9H3l4
+
 ## Narrative
 Creating Strong Video Game Characters
 
