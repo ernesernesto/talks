@@ -283,3 +283,7 @@ https://www.youtube.com/watch?v=biuRt_qdcIg
 The Thirty Million Line Problem
 
 https://www.youtube.com/watch?v=kZRE7HIO3vk
+
+Crash Course in Online Features for Programmers
+
+https://www.youtube.com/watch?v=HVpcRXVkQl0
