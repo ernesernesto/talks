@@ -287,3 +287,15 @@ https://www.youtube.com/watch?v=kZRE7HIO3vk
 Crash Course in Online Features for Programmers
 
 https://www.youtube.com/watch?v=HVpcRXVkQl0
+
+Solving the Right Problems for Engine Programmers - Mike Acton (TGC 2017)
+
+https://www.youtube.com/watch?v=4B00hV3wmMY
+
+Pitfalls of Object Oriented Programming, Revisited - Tony Albrecht (TGC 2017)
+
+https://www.youtube.com/watch?v=VAT9E-M-PoE
+
+Holistic Optimisation - Tony Albrecht (TGC 2017)
+
+https://www.youtube.com/watch?v=I9d1JOC_b3c
