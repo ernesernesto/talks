@@ -299,3 +299,7 @@ https://www.youtube.com/watch?v=VAT9E-M-PoE
 Holistic Optimisation - Tony Albrecht (TGC 2017)
 
 https://www.youtube.com/watch?v=I9d1JOC_b3c
+
+Advice for Writing Small Programs in C
+
+https://www.youtube.com/watch?v=eAhWIO1Ra6M
