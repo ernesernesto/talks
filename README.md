@@ -87,4 +87,4 @@ Curation of talks that I found useful and worth to watch
 - [Pitfalls of Object Oriented Programming, Revisited - Tony Albrecht (TGC 2017)](https://www.youtube.com/watch?v=VAT9E-M-PoE)
 - [Holistic Optimisation - Tony Albrecht (TGC 2017)](https://www.youtube.com/watch?v=I9d1JOC_b3c)
 - [Advice for Writing Small Programs in C](https://www.youtube.com/watch?v=eAhWIO1Ra6M)
-- [Stanford Seminar - PCG: A Family of Better Random Number Generators]https://www.youtube.com/watch?v=45Oet5qjlms
+- [Stanford Seminar - PCG: A Family of Better Random Number Generators](https://www.youtube.com/watch?v=45Oet5qjlms)
