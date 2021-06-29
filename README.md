@@ -89,3 +89,4 @@ Curation of talks that I found useful and worth to watch
 - [Advice for Writing Small Programs in C](https://www.youtube.com/watch?v=eAhWIO1Ra6M)
 - [Stanford Seminar - PCG: A Family of Better Random Number Generators](https://www.youtube.com/watch?v=45Oet5qjlms)
 - [Automated Testing: Using AI Controlled Players to Test 'The Division'](https://www.gdcvault.com/play/1026069/Automated-Testing-Using-AI-Controlled)
+- [How King Uses AI in 'Candy Crush'](https://www.gdcvault.com/play/1023858/How-King-Uses-AI-in)
