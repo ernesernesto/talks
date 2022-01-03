@@ -91,3 +91,4 @@ Curation of talks that I found useful and worth to watch
 - [Automated Testing: Using AI Controlled Players to Test 'The Division'](https://www.gdcvault.com/play/1026069/Automated-Testing-Using-AI-Controlled)
 - [How King Uses AI in 'Candy Crush'](https://www.gdcvault.com/play/1023858/How-King-Uses-AI-in)
 - [8 Frames in 16ms: Rollback Networking in Mortal Kombat and Injustice 2](https://www.youtube.com/watch?v=7jb0FOcImdg)
+- [Jason Gregory - Dogged Determination (Naughty Doc Tech Culture)](https://www.youtube.com/watch?v=f8XdvIO8JxE)
