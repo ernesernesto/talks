@@ -92,3 +92,4 @@ Curation of talks that I found useful and worth to watch
 - [How King Uses AI in 'Candy Crush'](https://www.gdcvault.com/play/1023858/How-King-Uses-AI-in)
 - [8 Frames in 16ms: Rollback Networking in Mortal Kombat and Injustice 2](https://www.youtube.com/watch?v=7jb0FOcImdg)
 - [Jason Gregory - Dogged Determination (Naughty Doc Tech Culture)](https://www.youtube.com/watch?v=f8XdvIO8JxE)
+- [Elan Ruskin - AI-driven Dynamic Dialog through Fuzzy Pattern Matching](https://www.youtube.com/watch?v=tAbBID3N64A)
