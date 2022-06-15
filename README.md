@@ -96,3 +96,4 @@ Curation of talks that I found useful and worth to watch
 - [Elan Ruskin - AI-driven Dynamic Dialog through Fuzzy Pattern Matching](https://www.youtube.com/watch?v=tAbBID3N64A)
 - [Elan Ruskin - AI-driven Dynamic Dialog through Fuzzy Pattern Matching](https://www.youtube.com/watch?v=tAbBID3N64A)
 - [Fabian Giesen - Let's Talk About Queues](https://vimeo.com/453080016)
+- [Mark Cerny - Method](https://www.youtube.com/watch?v=QOAW9ioWAvE)
