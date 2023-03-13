@@ -34,6 +34,8 @@ Curation of talks that I found useful and worth to watch
 - [Of Choice and Breaking New Ground - Designing Mark of The Ninja](https://www.gdcvault.com/play/1017791/Of-Choice-and-Breaking-New)
 - [Prototyping Your Monetization: Evaluating Monetization Potential Early](https://www.gdcvault.com/play/1023951/Prototyping-Your-Monetization-Evaluating-Monetization)
 - [Jamie Gilbertson & David Petry - Designing and Implementing an Engaging PvP Multiplayer Experience](https://www.youtube.com/watch?v=P_T_Hl9H3l4)
+- [Combat Design of 'God of War: Ragnarök' - Rob Meyer](https://www.youtube.com/watch?v=6iTBqcBv5QA)
+
 
 ## Narrative
 - [Creating Strong Video Game Characters](https://www.youtube.com/watch?v=4mgK2hL33Vw)
