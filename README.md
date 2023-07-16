@@ -100,3 +100,4 @@ Curation of talks that I found useful and worth to watch
 - [Fabian Giesen - Let's Talk About Queues](https://vimeo.com/453080016)
 - [Mark Cerny - Method](https://www.youtube.com/watch?v=QOAW9ioWAvE)
 - [Andreas Fredriksson - Context is Everything](https://guide.handmade-seattle.com/c/2021/context-is-everything/)
+- [Sebastian Aaltonen - REAC 2023 DAY 1 Modern Mobile Rendering @ HypeHype](https://www.youtube.com/watch?v=m3bW8d4Brec)
