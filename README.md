@@ -101,3 +101,4 @@ Curation of talks that I found useful and worth to watch
 - [Mark Cerny - Method](https://www.youtube.com/watch?v=QOAW9ioWAvE)
 - [Andreas Fredriksson - Context is Everything](https://guide.handmade-seattle.com/c/2021/context-is-everything/)
 - [Sebastian Aaltonen - REAC 2023 DAY 1 Modern Mobile Rendering @ HypeHype](https://www.youtube.com/watch?v=m3bW8d4Brec)
+- [Christer Ericson: Game Development Memory Optimization](https://www.youtube.com/watch?v=t15T_BkOtm0)
