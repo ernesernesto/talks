@@ -54,6 +54,7 @@ Curation of talks that I found useful and worth to watch
 - [Why Dark Souls Is The 'Ikea' Of Games](https://www.youtube.com/watch?v=vid5yZRKzs0)
 - [Being glue - Tanya Reilly](https://www.youtube.com/watch?v=KClAPipnKqw)
 - [Get Over Yourself: Making Someone Else's Game](https://www.gdcvault.com/play/1015649/Get-Over-Yourself-Making-Someone)
+- [Low Level Emotional Programming](https://guide.handmade-seattle.com/c/2021/low-level-emotional-programming/)
 
 ## UX
 - [Game UX Summit ’17 _ Alex Neonakis Naughty Dog _ How UX Can Spearhead your Accessibility Push](https://www.youtube.com/watch?v=HFcRwY2gj-8)
